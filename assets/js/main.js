@@ -311,7 +311,7 @@ var settings = {
 
 //Donation
 
-let title = "Server Additions";
+let title = "New Server Host";
 let currentDonations = 0;
 let currentGoal = 100;
 let percentageAchieved = (currentDonations / currentGoal) * 100;
